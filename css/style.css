@@ -1,0 +1,166 @@
+@import url("../css/font.css");
+@import url("../css/color-variable.css");
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+.quotes {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  position: relative;
+  width: 450px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #333;
+  box-sizing: border-box;
+}
+
+.header-logo .btn-menu {
+  position: absolute;
+  right: 10px;
+  top: 25px;
+  padding: 8px 20px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: var(--main);
+  color: white;
+}
+
+.header-logo button:hover {
+  cursor: pointer;
+}
+
+.header-logo img {
+  max-width: 350px;
+  height: 80px;
+}
+
+.post-quote-wrapper {
+  margin-bottom: 50px;
+}
+
+.input-by,
+.input-quote {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.input-by input,
+.input-quote textarea {
+  padding: 5px;
+}
+
+.post-quote-wrapper button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  background-color: var(--main);
+  color: white;
+  font-size: 14px;
+}
+
+.post-quote-wrapper button:hover {
+  cursor: pointer;
+  background-color: rgb(20, 20, 163);
+}
+
+.tombol-wrapper p {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.tombol-wrapper button {
+  padding: 10px 20px;
+  background-color: var(--main);
+  border: none;
+  outline: none;
+  color: white;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.tombol-wrapper button:hover {
+  cursor: pointer;
+  background-color: rgb(20, 20, 163);
+}
+
+.content-wrapper h4,
+.content-wrapper p,
+.content-wrapper hr,
+.post-date {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.content-wrapper {
+  height: 300px;
+  width: 100%;
+  margin: 40px 0;
+  padding: 5px;
+  box-sizing: border-box;
+  overflow: auto;
+  visibility: hidden;
+}
+
+#isi {
+  min-height: 350px;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: start;
+}
+
+.content-wrapper:hover,
+.content-wrapper:focus,
+.content-wrapper .c {
+  visibility: visible;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ecebf5;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--main);
+  border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #333;
+  cursor: pointer;
+}
+
+/* Login */
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.btn-wrapper {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.btn-login {
+  padding: 9px 0;
+  background-color: var(--main);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  outline: none;
+  width: 50%;
+}

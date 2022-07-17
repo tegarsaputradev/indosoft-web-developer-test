@@ -1,0 +1,47 @@
+[
+    {
+        "quote": "Keputusasaan dan kegagalan adalah dua batu loncatan yang paling pasti menuju kesuksesan",
+        "by": "Dale Carnegie",
+        "date": "11-july-2022"
+    },
+    {
+        "quote": "Kegagalan dapat dibagi menjadi dua sebab, yakni orang yang berpikir tapi tidak pernah bertindak, dan orang yang bertindak tapi tidak pernah berpikir",
+        "by": "W. A. Nance",
+        "date": "12-july-2022"
+    },
+    {
+        "quote": "Kesuksesan bukanlah akhir, kegagalan bukan hal yang fatal, keberanian untuk melanjutkan yang terpenting",
+        "by": "Winston Churchill",
+        "date": "13-july-2022"
+    },
+    {
+        "quote": "Banyak orang baik di dunia ini, jika kau tak menemukannya. jadilah salah satu dari mereka!",
+        "by": "tegar",
+        "date": "2022-07-16"
+    },
+    {
+        "quote": "Aku mulai menyadari betapa pentingnya menjadi seorang antusias dalam hidup. Dia mengajari aku bahwa jika kamu tertarik pada sesuatu, apa pun itu, lakukanlah dengan kecepatan penuh. Rangkullah dengan kedua tangan, peluk, cintai, dan yang terpenting, jadilah bergairah tentangnya",
+        "by": "Roald Dahl",
+        "date": "2022-07-16"
+    },
+    {
+        "quote": "Mengingat bahwa kamu akan mati adalah cara terbaik yang saya tahu untuk menghindari jebakan berpikir bahwa kamu akan kehilangan sesuatu. Kamu sudah telanjang. Tidak ada alasan untuk tidak mengikuti hatimu",
+        "by": "Steve Jobs",
+        "date": "2022-07-16"
+    },
+    {
+        "quote": "Hidup seperti halnya mengendarai sepeda, untuk membuatnya seimbang, kamu harus terus bergerak",
+        "by": "Albert Einsten",
+        "date": "2022-07-16"
+    },
+    {
+        "quote": "Memiliki pikiran yang baik saja tidak cukup, yang penting adalah menggunakannya dengan baik",
+        "by": "Rene Descartes",
+        "date": "2022-07-16"
+    },
+    {
+        "quote": "Tujuan seseorang bukanlah suatu tempat, tetapi cara baru untuk melihat sesuatu",
+        "by": "Henry Miller",
+        "date": "2022-07-16"
+    }
+]
